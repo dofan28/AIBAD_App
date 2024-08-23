@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "636350122101",
+    "project_id": "fp-aibad-1d838",
+    "storage_bucket": "fp-aibad-1d838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636350122101:android:824ee9904f1f921f5f503c",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8xzb_4QL3x3yEFR5K0Eef6w-rJHrFMfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
